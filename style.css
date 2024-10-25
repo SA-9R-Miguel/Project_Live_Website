@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+.header, .footer {
+    background-color: #35424a;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.product {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 15px 0;
+    padding: 15px;
+    text-align: center;
+}
+
+.product img {
+    max-width: 100%;
+    height: auto;
+}
+
+form {
+    margin-top: 10px;
+}
+
+label {
+    margin-right: 10px;
+}
+
+input[type="number"] {
+    width: 50px;
+}
